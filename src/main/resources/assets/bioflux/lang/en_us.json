@@ -1,0 +1,12 @@
+{
+  "creativetab.bioflux.bioflux": "BioFlux",
+
+  "item.bioflux.biomass": "Biomass",
+  "item.bioflux.compacted_biomass": "Compacted Biomass",
+
+  "block.bioflux.biomass_burner": "Biomass Burner",
+  "block.bioflux.biomass_processor": "Biomass Processor",
+  "block.bioflux.capacitor_tier_1": "Tier 1 Capacitor",
+  "block.bioflux.capacitor_tier_2": "Tier 2 Capacitor",
+  "block.bioflux.capacitor_tier_3": "Tier 3 Capacitor"
+}

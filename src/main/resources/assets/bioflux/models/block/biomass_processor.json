@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "bioflux:block/biomass_processor_bottom",
+    "up": "bioflux:block/biomass_processor_top",
+    "north": "bioflux:block/biomass_processor_sides",
+    "south": "bioflux:block/biomass_processor_sides",
+    "west": "bioflux:block/biomass_processor_sides",
+    "east": "bioflux:block/biomass_processor_sides",
+    "particle": "bioflux:block/biomass_processor_sides"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "bioflux:block/biomass_burner_bottom",
+    "up": "bioflux:block/biomass_burner_sides",
+    "north": "bioflux:block/biomass_burner_front",
+    "south": "bioflux:block/biomass_burner_sides",
+    "west": "bioflux:block/biomass_burner_sides",
+    "east": "bioflux:block/biomass_burner_sides",
+    "particle": "bioflux:block/biomass_burner_front"
+  }
+}

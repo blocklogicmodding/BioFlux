@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "bioflux:block/capacitor_top_bottom",
+    "up": "bioflux:block/capacitor_top_bottom",
+    "north": "bioflux:block/capacitor_sides",
+    "south": "bioflux:block/capacitor_sides",
+    "west": "bioflux:block/capacitor_sides",
+    "east": "bioflux:block/capacitor_sides",
+    "particle": "bioflux:block/capacitor_sides"
+  }
+}

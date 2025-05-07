@@ -1,5 +1,8 @@
 package com.blocklogic.bioflux;
 
+import com.blocklogic.bioflux.block.ModBlocks;
+import com.blocklogic.bioflux.item.ModCreativeModeTabs;
+import com.blocklogic.bioflux.item.ModItems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -29,6 +32,10 @@ public class BioFlux
         modEventBus.addListener(this::commonSetup);
 
         NeoForge.EVENT_BUS.register(this);
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
+        ModCreativeModeTabs.register(modEventBus);
 
         modEventBus.addListener(this::addCreative);
 

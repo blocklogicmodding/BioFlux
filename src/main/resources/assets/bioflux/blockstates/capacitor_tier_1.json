@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bioflux:block/capacitor_tier_1"
+    }
+  }
+}
